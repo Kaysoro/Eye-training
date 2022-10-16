@@ -1,0 +1,19 @@
+{
+    "name": "Eye Training",
+    "short_name": "EyeTraining",
+    "theme_color": "#d1d7e2",
+    "background_color": "#1e2124",
+    "display": "standalone",
+    "related_applications": [{
+      "platform": "web"
+    }],
+    "start_url": ".",
+    "icons": [
+      {
+        "src": "images/favicon.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }

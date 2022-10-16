@@ -1,0 +1,92 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #1e2124;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.device {
+    background-color: #484b51;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.blades {
+    background-color: #d1d7e2;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.groove {
+    background-color: #34353a;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.laser {
+    background-color: red;
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    box-shadow: 0 0 20px 10px red;
+}
+
+.horizontal {
+    width: 99%;
+    height: 120px;
+    padding-top: 20px;
+}
+
+.horizontal div {
+    width: 99%;
+    height: 80px;
+}
+
+.horizontal div div {
+    width: 100%;
+    height: 10px;
+    justify-content: normal;
+}
+
+.vertical {
+    width: 120px;
+    height: 99%;
+    padding-left: 20px;
+}
+
+.vertical div {
+    width: 80px;
+    height: 99%;   
+}
+
+.vertical div div {
+    width: 10px;
+    height: 100%;
+    align-items: normal;
+}
