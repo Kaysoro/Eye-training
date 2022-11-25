@@ -54,7 +54,7 @@ body {
     width: 10px !important;
     height: 10px !important;
     border-radius: 50%;
-    box-shadow: 0 0 20px 10px red;
+    /* box-shadow: 0 0 20px 10px red; */
 }
 
 .horizontal {
